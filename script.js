@@ -5,7 +5,7 @@ var position = { x: 0, y: window.innerHeight / 2 };
 var counter = 0;
 var minFontSize = 3;
 var angleDistortion = 0;
-var letters = "Drawing Text Created By Devil Dev.";
+var letters = "Drawing Text Canvas , Mughal.Dev Join Us.";
 
 //Drawing Variables
 var canvas;
